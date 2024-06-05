@@ -32,6 +32,10 @@ const usernames = [
   
 ];
 
+console.log(`bản quyền thuộc về truc8783 và chyhiroo_`)
+console.log(`đây chỉ là một project học tập và không nên lạm dụng`)
+console.log(`nếu bạn yêu thích có thể ib discord truc8783 hoặc chyhiroo_ để cập nhật nhiều project thú vị khác nữa`)
+
 // Password for registration and login
 const password = "mật_khẩu"; // viết mật khẩu muốn register vào đây
 
