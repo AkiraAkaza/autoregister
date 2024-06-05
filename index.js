@@ -2,6 +2,8 @@ const mineflayer = require('mineflayer');
 const fs = require('fs');
 
 // List of bot usernames
+// điền thêm thông tin tên tài khoản muốn register
+// cuối mỗi dòng hãy dùng thêm dấu phẩy nhưng dòng cuối không nên thêm vào
 const usernames = [
   `Gamingfro`,
   `HoiiX2`,
@@ -26,12 +28,12 @@ const usernames = [
   `lamnb999`,
   `voidgod_og`,
   `xidou`,
-  `zinlintin102`,
+  `zinlintin102`
   
 ];
 
 // Password for registration and login
-const password = "09012008@";
+const password = "mật_khẩu"; // viết mật khẩu muốn register vào đây
 
 // File to store registered usernames
 const registeredUserFile = 'registeredUsers.txt';
